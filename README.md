@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this is a E-commerce website fully created in javascript framework react js , and using the fakestoreapi to get data about the products that it servs 
+its fully in react js and bootstrapts frameworks , and it might help u to understand that communication between the parent and child component
 
 ## Available Scripts
 
